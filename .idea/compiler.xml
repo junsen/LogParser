@@ -9,8 +9,8 @@
         <module name="LogParser" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8">
-      <module name="LogParser" target="1.8" />
+    <bytecodeTargetLevel>
+      <module name="LogParser" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
