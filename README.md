@@ -2,6 +2,9 @@
 
 ### This project demonstrates a multiple output for mapreduce job
 
-````bash```` 
+
+```bash
+
 arguments input/ output/
-`````````` 
+
+```
